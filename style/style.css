@@ -1,0 +1,37 @@
+body{
+    background-color:darkgrey;
+
+}
+h2{
+    color: #007bff;
+    padding-top: 20px;
+    margin-bottom: 20px;  
+    text-align: center;
+}
+.navbar img{
+    width: 45px;
+    cursor: pointer;
+}
+.top-player img {
+    width: 56px;
+}
+img {
+    vertical-align: middle;
+    border-style: none;
+}
+.d-flex{
+    display: flex;
+}
+.card .card-img-top {
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 15px;
+    border: none;
+}
+.card-botton img {
+    height: 20px;
+}
+p.course-time {
+    display: block;
+    margin: 0px 0px 16px;
+}
